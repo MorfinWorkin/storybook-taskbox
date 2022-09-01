@@ -1,8 +1,8 @@
 info @storybook/react v6.5.10
 info 
-info => Cleaning outputDir: /tmp/chromatic--16392-gMWrKWLCQa78
+info => Cleaning outputDir: /tmp/chromatic--18316-002wPZj43rmb
 info => Loading presets
-info => Copying static files: /home/marph182/taskbox/public at /tmp/chromatic--16392-gMWrKWLCQa78/
+info => Copying static files: /home/marph182/taskbox/public at /tmp/chromatic--18316-002wPZj43rmb/
 info => Compiling manager..
 info => Compiling preview..
 info Addon-docs: using MDX1
@@ -130,131 +130,248 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 10% building import loader ./node_modules/source-map-loader/dist/cjs.js
 <s> [webpack.Progress] 10% building 0/14 entries 12/32 dependencies 0/11 modules
 <s> [webpack.Progress] 10% building import loader ./node_modules/@storybook/source-loader/dist/cjs/index.js
-<s> [webpack.Progress] 10% building 0/14 entries 33/56 dependencies 0/30 modules
-<s> [webpack.Progress] 10% building 0/14 entries 142/200 dependencies 4/93 modules
-<s> [webpack.Progress] 13% building 1/14 entries 311/434 dependencies 9/163 modules
-<s> [webpack.Progress] 13% building import loader ./node_modules/mini-css-extract-plugin/dist/loader.js
-<s> [webpack.Progress] 13% building import loader ./node_modules/react-scripts/node_modules/css-loader/dist/cjs.js
-<s> [webpack.Progress] 13% building import loader ./node_modules/postcss-loader/dist/cjs.js
-<s> [webpack.Progress] 13% building 1/14 entries 377/434 dependencies 9/191 modules
-<s> [webpack.Progress] 13% building 1/14 entries 455/735 dependencies 11/219 modules
-<s> [webpack.Progress] 17% building 2/14 entries 487/878 dependencies 16/220 modules
+<s> [webpack.Progress] 10% building 0/14 entries 37/57 dependencies 0/34 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/mini-css-extract-plugin/dist/loader.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/react-scripts/node_modules/css-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/postcss-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building 0/14 entries 133/189 dependencies 4/86 modules
+<s> [webpack.Progress] 13% building 1/14 entries 284/376 dependencies 9/155 modules
+<s> [webpack.Progress] 13% building 1/14 entries 675/743 dependencies 16/279 modules
+<s> [webpack.Progress] 13% building 1/14 entries 1108/1300 dependencies 58/391 modules
+<s> [webpack.Progress] 13% building 1/14 entries 1556/1600 dependencies 143/435 modules
+<s> [webpack.Progress] 13% building 1/14 entries 1938/2000 dependencies 214/497 modules
+<s> [webpack.Progress] 13% building 1/14 entries 2311/2417 dependencies 300/595 modules
+<s> [webpack.Progress] 14% building 1/14 entries 2784/2890 dependencies 399/700 modules
+<s> [webpack.Progress] 14% building 1/14 entries 3011/3300 dependencies 445/764 modules
+<s> [webpack.Progress] 16% building 1/14 entries 3977/4100 dependencies 580/958 modules
+<s> [webpack.Progress] 19% building 1/14 entries 4700/4986 dependencies 882/1171 modules
+<s> [webpack.Progress] 24% building 1/14 entries 5584/5600 dependencies 1320/1451 modules
+<s> [webpack.Progress] 25% building 2/14 entries 5633/5648 dependencies 1379/1460 modules
+<s> [webpack.Progress] 25% building 3/14 entries 5633/5648 dependencies 1380/1460 modules
+<s> [webpack.Progress] 25% building 4/14 entries 5633/5648 dependencies 1381/1460 modules
+<s> [webpack.Progress] 29% building 5/14 entries 5633/5648 dependencies 1382/1460 modules
+<s> [webpack.Progress] 33% building 6/14 entries 5633/5648 dependencies 1383/1460 modules
+<s> [webpack.Progress] 37% building 7/14 entries 5633/5648 dependencies 1384/1460 modules
+<s> [webpack.Progress] 41% building 8/14 entries 5633/5648 dependencies 1385/1460 modules
+<s> [webpack.Progress] 45% building 9/14 entries 5633/5648 dependencies 1386/1460 modules
+<s> [webpack.Progress] 49% building 10/14 entries 5633/5648 dependencies 1387/1460 modules
+<s> [webpack.Progress] 53% building 11/14 entries 5633/5648 dependencies 1388/1460 modules
+<s> [webpack.Progress] 57% building 12/14 entries 5827/5830 dependencies 1483/1499 modules
+<s> [webpack.Progress] 61% building 13/14 entries 5827/5830 dependencies 1483/1499 modules
+<s> [webpack.Progress] 64% building 14/14 entries 5836/5836 dependencies 1502/1502 modules
+<s> [webpack.Progress] 65% building
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing finish module graph ResolverCachePlugin
+<s> [webpack.Progress] 70% sealing finish module graph InferAsyncModulesPlugin
+<s> [webpack.Progress] 70% sealing finish module graph FlagDependencyExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph InnerGraphPlugin
+<s> [webpack.Progress] 70% sealing finish module graph WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph ESLintWebpackPlugin_1
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 70% sealing plugins WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing dependencies optimization SideEffectsFlagPlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization FlagDependencyUsagePlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 75% sealing chunk optimization EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization SplitChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization ModuleConcatenationPlugin
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 79% sealing module reviving RecordIdsPlugin
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 80% sealing module ids NamedModuleIdsPlugin
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 82% sealing chunk reviving RecordIdsPlugin
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 84% sealing chunk id optimization FlagIncludedChunksPlugin
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record modules RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 86% sealing record chunks RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 92% sealing asset processing ESLintWebpackPlugin_1
+<s> [webpack.Progress] 92% sealing asset processing PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 92% sealing asset processing TerserPlugin
+info => Manager built (31 s)
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/main.d00eb639.css generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/main.d00eb639.css generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.e82c24cc.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.e82c24cc.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.937c3da7.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.937c3da7.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 701.79e8a4f5.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 701.79e8a4f5.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 745.a11addb2.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 745.a11addb2.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 273.05e2fe06.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 273.05e2fe06.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 51.87773dcb.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 51.87773dcb.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 807.39bc06c4.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 807.39bc06c4.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 551.bf12a416.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 551.bf12a416.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 897.1d8f3d1e.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 897.1d8f3d1e.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 229.16d2450c.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 229.16d2450c.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 935.f68305e6.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 935.f68305e6.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 250.d900b55f.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 250.d900b55f.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/main.d00eb639.css attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/main.d00eb639.css attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.8b449f3e.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.8b449f3e.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.f06dac4f.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.f06dac4f.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 701.c6702869.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 701.c6702869.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 745.610bf163.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 745.610bf163.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 551.7febf940.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 551.7febf940.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 229.a50d3fec.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 229.a50d3fec.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 935.8bc2b027.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 935.8bc2b027.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 273.3c34f78f.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 273.3c34f78f.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 51.e4660367.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 51.e4660367.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 807.2958b961.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 807.2958b961.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 897.a62f1cd7.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 897.a62f1cd7.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 250.f333bbe3.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 250.f333bbe3.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 98% emitting after emit SizeLimitsPlugin
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% done plugins CaseSensitivePathsPlugin
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% 
+
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache store build dependencies
 <s> [webpack.Progress] 99% cache begin idle
 <s> [webpack.Progress] 99% cache begin idle
 <s> [webpack.Progress] 100% 
 
-ERR! => Failed to build the preview
-ERR! Module not found: Error: Can't resolve 'react-redux' in '/home/marph182/taskbox/src/components/InboxScreen'
+info => Preview built (33 s)
+WARN [eslint] 
+WARN src/components/InboxScreen/InboxScreen.js
+WARN   Line 13:6:  React Hook useEffect has a missing dependency: 'dispatch'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+WARN 
+WARN 
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   273.3c34f78f.iframe.bundle.js (600 KiB)
+WARN   807.2958b961.iframe.bundle.js (793 KiB)
+WARN   250.f333bbe3.iframe.bundle.js (2.43 MiB)
+WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+WARN Entrypoints:
+WARN   main (2.47 MiB)
+WARN       runtime~main.f06dac4f.iframe.bundle.js
+WARN       250.f333bbe3.iframe.bundle.js
+WARN       main.8b449f3e.iframe.bundle.js
+WARN       static/css/main.3f72ca3c.css
+WARN 
 <s> [webpack.Progress] 99% cache shutdown
 <s> [webpack.Progress] 99% cache shutdown
 <s> [webpack.Progress] 100% 
 
-<s> [webpack.Progress] 21% building 3/14 entries 805/878 dependencies 29/220 modules
-<s> [webpack.Progress] 25% building 4/14 entries 805/878 dependencies 32/220 modules
-<s> [webpack.Progress] 29% building 5/14 entries 805/878 dependencies 33/220 modules
-<s> [webpack.Progress] 33% building 6/14 entries 805/878 dependencies 34/220 modules
-<s> [webpack.Progress] 37% building 7/14 entries 805/878 dependencies 35/220 modules
-<s> [webpack.Progress] 41% building 8/14 entries 805/878 dependencies 36/220 modules
-<s> [webpack.Progress] 45% building 9/14 entries 805/878 dependencies 37/220 modules
-<s> [webpack.Progress] 49% building 10/14 entries 805/878 dependencies 38/220 modules
-<s> [webpack.Progress] 53% building 11/14 entries 805/878 dependencies 39/220 modules
-<s> [webpack.Progress] 57% building 12/14 entries 805/878 dependencies 40/220 modules
-<s> [webpack.Progress] 60% building 13/14 entries 805/878 dependencies 82/220 modules
-<s> [webpack.Progress] 60% building 14/14 entries 805/878 dependencies 162/220 modules
-info => Manager built (18 s)
-ERR! ModuleNotFoundError: Module not found: Error: Can't resolve 'react-redux' in '/home/marph182/taskbox/src/components/InboxScreen'
-ERR!     at /home/marph182/taskbox/node_modules/webpack/lib/Compilation.js:2016:28
-ERR!     at /home/marph182/taskbox/node_modules/webpack/lib/NormalModuleFactory.js:798:13
-ERR!     at eval (eval at create (/home/marph182/taskbox/node_modules/webpack/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:10:1)
-ERR!     at /home/marph182/taskbox/node_modules/webpack/lib/NormalModuleFactory.js:270:22
-ERR!     at eval (eval at create (/home/marph182/taskbox/node_modules/webpack/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:9:1)
-ERR!     at /home/marph182/taskbox/node_modules/webpack/lib/NormalModuleFactory.js:434:22
-ERR!     at /home/marph182/taskbox/node_modules/webpack/lib/NormalModuleFactory.js:116:11
-ERR!     at /home/marph182/taskbox/node_modules/webpack/lib/NormalModuleFactory.js:670:25
-ERR!     at /home/marph182/taskbox/node_modules/webpack/lib/NormalModuleFactory.js:855:8
-ERR!     at /home/marph182/taskbox/node_modules/webpack/lib/NormalModuleFactory.js:975:5
-ERR!  ModuleNotFoundError: Module not found: Error: Can't resolve 'react-redux' in '/home/marph182/taskbox/src/components/InboxScreen'
-ERR!     at /home/marph182/taskbox/node_modules/webpack/lib/Compilation.js:2016:28
-ERR!     at /home/marph182/taskbox/node_modules/webpack/lib/NormalModuleFactory.js:798:13
-ERR!     at eval (eval at create (/home/marph182/taskbox/node_modules/webpack/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:10:1)
-ERR!     at /home/marph182/taskbox/node_modules/webpack/lib/NormalModuleFactory.js:270:22
-ERR!     at eval (eval at create (/home/marph182/taskbox/node_modules/webpack/node_modules/tapable/lib/HookCodeFactory.js:33:10), <anonymous>:9:1)
-ERR!     at /home/marph182/taskbox/node_modules/webpack/lib/NormalModuleFactory.js:434:22
-ERR!     at /home/marph182/taskbox/node_modules/webpack/lib/NormalModuleFactory.js:116:11
-ERR!     at /home/marph182/taskbox/node_modules/webpack/lib/NormalModuleFactory.js:670:25
-ERR!     at /home/marph182/taskbox/node_modules/webpack/lib/NormalModuleFactory.js:855:8
-ERR!     at /home/marph182/taskbox/node_modules/webpack/lib/NormalModuleFactory.js:975:5
-ERR! resolve 'react-redux' in '/home/marph182/taskbox/src/components/InboxScreen'
-ERR!   Parsed request is a module
-ERR!   using description file: /home/marph182/taskbox/package.json (relative path: ./src/components/InboxScreen)
-ERR!     Field 'browser' doesn't contain a valid alias configuration
-ERR!     resolve as module
-ERR!       /home/marph182/taskbox/src/components/InboxScreen/node_modules doesn't exist or is not a directory
-ERR!       /home/marph182/taskbox/src/components/node_modules doesn't exist or is not a directory
-ERR!       /home/marph182/taskbox/src/node_modules doesn't exist or is not a directory
-ERR!       looking for modules in /home/marph182/taskbox/node_modules
-ERR!         single file module
-ERR!           using description file: /home/marph182/taskbox/package.json (relative path: ./node_modules/react-redux)
-ERR!             no extension
-ERR!               Field 'browser' doesn't contain a valid alias configuration
-ERR!               /home/marph182/taskbox/node_modules/react-redux doesn't exist
-ERR!             .web.mjs
-ERR!               Field 'browser' doesn't contain a valid alias configuration
-ERR!               /home/marph182/taskbox/node_modules/react-redux.web.mjs doesn't exist
-ERR!             .mjs
-ERR!               Field 'browser' doesn't contain a valid alias configuration
-ERR!               /home/marph182/taskbox/node_modules/react-redux.mjs doesn't exist
-ERR!             .web.js
-ERR!               Field 'browser' doesn't contain a valid alias configuration
-ERR!               /home/marph182/taskbox/node_modules/react-redux.web.js doesn't exist
-ERR!             .js
-ERR!               Field 'browser' doesn't contain a valid alias configuration
-ERR!               /home/marph182/taskbox/node_modules/react-redux.js doesn't exist
-ERR!             .json
-ERR!               Field 'browser' doesn't contain a valid alias configuration
-ERR!               /home/marph182/taskbox/node_modules/react-redux.json doesn't exist
-ERR!             .web.jsx
-ERR!               Field 'browser' doesn't contain a valid alias configuration
-ERR!               /home/marph182/taskbox/node_modules/react-redux.web.jsx doesn't exist
-ERR!             .jsx
-ERR!               Field 'browser' doesn't contain a valid alias configuration
-ERR!               /home/marph182/taskbox/node_modules/react-redux.jsx doesn't exist
-ERR!         /home/marph182/taskbox/node_modules/react-redux doesn't exist
-ERR!       /home/marph182/node_modules doesn't exist or is not a directory
-ERR!       /home/node_modules doesn't exist or is not a directory
-ERR!       /node_modules doesn't exist or is not a directory
-ERR!       looking for modules in /home/marph182/taskbox/node_modules/react-scripts/node_modules
-ERR!         single file module
-ERR!           using description file: /home/marph182/taskbox/node_modules/react-scripts/package.json (relative path: ./node_modules/react-redux)
-ERR!             no extension
-ERR!               Field 'browser' doesn't contain a valid alias configuration
-ERR!               /home/marph182/taskbox/node_modules/react-scripts/node_modules/react-redux doesn't exist
-ERR!             .web.mjs
-ERR!               Field 'browser' doesn't contain a valid alias configuration
-ERR!               /home/marph182/taskbox/node_modules/react-scripts/node_modules/react-redux.web.mjs doesn't exist
-ERR!             .mjs
-ERR!               Field 'browser' doesn't contain a valid alias configuration
-ERR!               /home/marph182/taskbox/node_modules/react-scripts/node_modules/react-redux.mjs doesn't exist
-ERR!             .web.js
-ERR!               Field 'browser' doesn't contain a valid alias configuration
-ERR!               /home/marph182/taskbox/node_modules/react-scripts/node_modules/react-redux.web.js doesn't exist
-ERR!             .js
-ERR!               Field 'browser' doesn't contain a valid alias configuration
-ERR!               /home/marph182/taskbox/node_modules/react-scripts/node_modules/react-redux.js doesn't exist
-ERR!             .json
-ERR!               Field 'browser' doesn't contain a valid alias configuration
-ERR!               /home/marph182/taskbox/node_modules/react-scripts/node_modules/react-redux.json doesn't exist
-ERR!             .web.jsx
-ERR!               Field 'browser' doesn't contain a valid alias configuration
-ERR!               /home/marph182/taskbox/node_modules/react-scripts/node_modules/react-redux.web.jsx doesn't exist
-ERR!             .jsx
-ERR!               Field 'browser' doesn't contain a valid alias configuration
-ERR!               /home/marph182/taskbox/node_modules/react-scripts/node_modules/react-redux.jsx doesn't exist
-ERR!         /home/marph182/taskbox/node_modules/react-scripts/node_modules/react-redux doesn't exist
-info => Loading presets
-
-attention => Storybook now collects completely anonymous telemetry regarding usage.
-This information is used to shape Storybook's roadmap and prioritize features.
-You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
-https://storybook.js.org/telemetry
-
+info => Output directory: /tmp/chromatic--18316-002wPZj43rmb
